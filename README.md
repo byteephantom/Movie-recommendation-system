@@ -114,9 +114,8 @@ pickle-mixin
 
 ## 🙋‍♂️ Author
 
-**YOUR NAME**
+**Ayush Kumar**
 - GitHub: [@byteephantom](https://github.com/byteephantom)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
 
 ---
 
